@@ -1,0 +1,8 @@
+{
+    "method": "post",
+    "urn": "/api/v1/auth/session",
+    "payload": {
+        "username": "",
+        "password": ""
+    }
+}

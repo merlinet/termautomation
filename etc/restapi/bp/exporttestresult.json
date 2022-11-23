@@ -1,0 +1,5 @@
+{
+    "method": "download",
+    "urn": "/api/v1/bps/export/report/{runid}/pdf",
+    "downloadpath": "{downloadpath}"
+}

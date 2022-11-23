@@ -1,0 +1,4 @@
+{
+    "method": "delete",
+    "urn": "/api/v1/auth/session"
+}

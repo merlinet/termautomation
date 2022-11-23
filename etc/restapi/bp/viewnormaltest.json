@@ -1,0 +1,4 @@
+{
+    "method": "get",
+    "urn": "/api/v1/bps/workingmodel/settings"
+}

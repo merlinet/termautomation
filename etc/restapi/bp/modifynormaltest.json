@@ -1,0 +1,11 @@
+{
+    "method": "patch",
+    "urn": "/api/v1/bps/workingmodel",
+    "payload": {
+        "newParams": {
+            "componentId": "",
+            "elementId": "",
+            "value": null
+        }
+    }
+}

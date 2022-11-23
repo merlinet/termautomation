@@ -1,0 +1,8 @@
+{
+    "method": "post",
+    "urn": "/api/v1/bps/ports/operations/unreserve",
+    "payload": {
+        "slot": 1,
+        "portList": []
+    }
+}

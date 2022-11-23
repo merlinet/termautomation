@@ -1,0 +1,7 @@
+{
+    "method": "post",
+    "urn": "/api/v1/bps/tests/operations/result",
+    "payload": {
+        "runid": ""
+    }
+}

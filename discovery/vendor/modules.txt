@@ -1,0 +1,64 @@
+# github.com/alecthomas/participle v0.7.1
+## explicit; go 1.13
+github.com/alecthomas/participle
+github.com/alecthomas/participle/lexer
+# github.com/alecthomas/repr v0.0.0-20220113201626-b1b626ac65ae
+## explicit; go 1.15
+github.com/alecthomas/repr
+# github.com/creack/pty v1.1.18
+## explicit; go 1.13
+github.com/creack/pty
+# github.com/creack/termios v0.0.0-20160714173321-88d0029e36a1
+## explicit
+github.com/creack/termios/raw
+# github.com/ghodss/yaml v1.0.0
+## explicit
+github.com/ghodss/yaml
+# github.com/go-ini/ini v1.66.4
+## explicit
+github.com/go-ini/ini
+# github.com/hashicorp/go-version v1.4.0
+## explicit
+github.com/hashicorp/go-version
+# github.com/kr/pty v1.1.8
+## explicit; go 1.12
+# github.com/lunixbochs/vtclean v1.0.0
+## explicit
+github.com/lunixbochs/vtclean
+# github.com/onsi/ginkgo v1.16.5
+## explicit; go 1.16
+# github.com/onsi/gomega v1.19.0
+## explicit; go 1.18
+# github.com/stretchr/testify v1.5.1
+## explicit; go 1.13
+# github.com/tidwall/gjson v1.14.0
+## explicit; go 1.12
+github.com/tidwall/gjson
+# github.com/tidwall/match v1.1.1
+## explicit; go 1.15
+github.com/tidwall/match
+# github.com/tidwall/pretty v1.2.0
+## explicit; go 1.16
+github.com/tidwall/pretty
+# github.com/totherme/unstructured v0.0.0-20170821094912-3faf2d56d8b8
+## explicit
+github.com/totherme/unstructured
+# github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb
+## explicit
+github.com/xeipuuv/gojsonpointer
+# golang.org/x/net v0.0.0-20220225172249-27dd8689420f
+## explicit; go 1.17
+golang.org/x/net/publicsuffix
+# golang.org/x/text v0.3.7
+## explicit; go 1.17
+golang.org/x/text/encoding
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/korean
+golang.org/x/text/transform
+# gopkg.in/resty.v1 v1.12.0
+## explicit
+gopkg.in/resty.v1
+# gopkg.in/yaml.v2 v2.4.0
+## explicit; go 1.15
+gopkg.in/yaml.v2

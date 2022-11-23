@@ -1,0 +1,7 @@
+{
+    "method": "patch",
+    "urn": "/api/v1/bps/workingmodel",
+    "payload": {
+        "template": ""
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "method": "post",
+    "urn": "/api/v1/bps/tests/operations/start",
+    "payload": {
+        "modelname": "",
+        "group": 1,
+        "neighborhood": null
+    }
+}

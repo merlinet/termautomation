@@ -1,0 +1,10 @@
+{
+    "method": "post",
+    "urn": "/api/v1/bps/ports/operations/reserve",
+    "payload": {
+        "slot": 1,
+        "portList": [],
+        "group": 1,
+        "force": true
+    }
+}

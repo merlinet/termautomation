@@ -1,0 +1,8 @@
+{
+    "method": "post",
+    "urn": "/api/v1/bps/workingmodel/operations/save",
+    "payload": {
+        "name": "",
+        "force": true
+    }
+}
